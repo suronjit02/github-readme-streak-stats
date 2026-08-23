@@ -80,7 +80,7 @@ function camelToSkewer(string $str): string
             <h2>Properties</h2>
             <form class="parameters">
                 <label for="user">Username<span title="required">*</span></label>
-                <input class="param" type="text" id="user" name="user" placeholder="DenverCoder1" pattern="^[A-Za-z\d-]{0,39}[A-Za-z\d]$" title="Up to 40 letters or hyphens but not ending with hyphen" />
+                <input class="param" type="text" id="user" name="user" placeholder="suronjit02" pattern="^[A-Za-z\d-]{0,39}[A-Za-z\d]$" title="Up to 40 letters or hyphens but not ending with hyphen" />
 
                 <label for="theme">Theme</label>
                 <select class="param" id="theme" name="theme">
