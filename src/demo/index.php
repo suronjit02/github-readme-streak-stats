@@ -63,7 +63,7 @@ function camelToSkewer(string $str): string
 </head>
 
 <body <?php echo $darkmode === "on" ? 'data-theme="dark"' : ""; ?>>
-    <h1>🔥 GitHub Readme Streak Stats</h1>
+    <h1>GitHub Readme Streak Stats 🔥</h1>
 
     <!-- GitHub badges/links section -->
     <div class="github">
@@ -269,7 +269,7 @@ function camelToSkewer(string $str): string
                 </div>
             </div>
             <div class="bottom">
-                <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/faq.md" target="_blank" class="underline-hover faq">
+                <a href="https://github.com/suronjit02/github-readme-streak-stats/blob/main/docs/faq.md" target="_blank" class="underline-hover faq">
                     Frequently Asked Questions
                     <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                         <g>
